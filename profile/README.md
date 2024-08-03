@@ -2,7 +2,7 @@
 
 The one for you.
 
-[Check it out](https://github.com/syntDevelopment/synt)
+[Check it out!](https://github.com/syntDevelopment/synt)
 
 <!--
 
