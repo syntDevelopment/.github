@@ -1,4 +1,8 @@
-## Hi there 👋
+## synt
+
+The one for you.
+
+[Check it out](https://github.com/syntDevelopment/synt)
 
 <!--
 
